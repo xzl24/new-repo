@@ -1,0 +1,2 @@
+# new-repo
+repository baru
